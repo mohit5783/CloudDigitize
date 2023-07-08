@@ -49,7 +49,7 @@ By considering these design considerations, CloudDigitize achieves a scalable, e
 
 ## Architecture Design
 
-![Architecture Diagram](https://i.imgur.com/wbCYjWe.png)
+![Architecture Diagram](https://i.imgur.com/5k0fEhb.jpg)
 
 The architecture diagram above illustrates the comprehensive low-level application architecture for CloudDigitize
 
